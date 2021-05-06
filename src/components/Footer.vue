@@ -13,7 +13,6 @@
                         <div class="footer-social">
                             <a href=""><i class="fab fa-twitter"></i></a>
                             <a href=""><i class="fab fa-facebook-f"></i></a>
-                            <a href=""><i class="fab fa-youtube"></i></a>
                             <a href=""><i class="fab fa-instagram"></i></a>
                             <a href=""><i class="fab fa-linkedin-in"></i></a>
                         </div>
@@ -25,8 +24,6 @@
                         <a href="">Building Construction</a>
                         <a href="">House Renovation</a>
                         <a href="">Architecture Design</a>
-                        <a href="">Interior Design</a>
-                        <a href="">Painting</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
@@ -36,7 +33,6 @@
                         <a href="">Contact Us</a>
                         <a href="">Our Team</a>
                         <a href="">Projects</a>
-                        <a href="">Testimonial</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
@@ -56,8 +52,6 @@
         <div class="container footer-menu">
             <div class="f-menu">
                 <a href="">Terms of use</a>
-                <a href="">Privacy policy</a>
-                <a href="">Cookies</a>
                 <a href="">Help</a>
                 <a href="">FQAs</a>
             </div>
@@ -65,7 +59,7 @@
         <div class="container copyright">
             <div class="row">
                 <div class="col-md-6">
-                    <p>&copy; <a href="#">Your Site Name</a>, All Right Reserved.</p>
+                    <p>&copy; <a href="#">プロジェクト</a>, All Right Reserved.</p>
                 </div>
                 <div class="col-md-6">
                     <p>Designed By <a href="https://htmlcodex.com">HTML Codex</a></p>

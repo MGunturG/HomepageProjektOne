@@ -25,42 +25,67 @@ export default function (Vue, { router, head, isClient }) {
   })
 
   head.script.push({
-    src: "https://code.jquery.com/jquery-3.4.1.min.js"
+    src: "https://code.jquery.com/jquery-3.4.1.min.js",
+    body: true
   })
 
   head.script.push({
-    src: "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"
+    src: "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js",
+    body: true
   })
 
   head.script.push({
-    src: "~/assets/lib/easing/easing.min.js"
+    src: "~/assets/js/bootstrap.bundle.min.js",
+    body: true
   })
 
   head.script.push({
-    src: "~/assets/lib/wow/wow.min.js"
+    src: "~/assets/js/bootstrap.min.js",
+    body: true
   })
 
   head.script.push({
-    src: "~/assets/lib/owlcarousel/owl.carousel.min.js"
+    src: "~/assets/js/main.js",
+    body: true
   })
 
   head.script.push({
-    src: "~/assets/lib/isotope/isotope.pkgd.min.js"
+    src: "~/assets/lib/easing/easing.min.js",
+    body: true
   })
 
   head.script.push({
-    src: "~/assets/lib/lightbox/js/lightbox.min.js"
+    src: "~/assets/lib/wow/wow.min.js",
+    body: true
   })
 
   head.script.push({
-    src: "~/assets/lib/waypoints/waypoints.min.js"
+    src: "~/assets/lib/owlcarousel/owl.carousel.min.js",
+    body: true
   })
 
   head.script.push({
-    src: "~/assets/lib/counterup/counterup.min.js"
+    src: "~/assets/lib/isotope/isotope.pkgd.min.js",
+    body: true
   })
 
   head.script.push({
-    src: "~/assets/lib/slick/slick.min.js"
+    src: "~/assets/lib/lightbox/js/lightbox.min.js",
+    body: true
+  })
+
+  head.script.push({
+    src: "~/assets/lib/waypoints/waypoints.min.js",
+    body: true
+  })
+
+  head.script.push({
+    src: "~/assets/lib/counterup/counterup.min.js",
+    body: true
+  })
+
+  head.script.push({
+    src: "~/assets/lib/slick/slick.min.js",
+    body: true
   })
 }
